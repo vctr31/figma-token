@@ -6,7 +6,7 @@
       "titulo": "Bonificación de 10,000 puntos",
       "subtitulo": "",
       "info": "Acumula 10,000 puntos por cada 10 noches reservadas en cualquier hotel Hilton.",
-      "img": "",
+      "img": "https://github.com/vctr31/figma-token/blob/7847ef8220ce9514cdee748bf0d2a5a9f4291a4c/8fefcea79e0caf493db758ca561f1ab45dae35a5.png",
       "cta": {
         "text": "Redimir puntos",
         "action": "redeem_points",
